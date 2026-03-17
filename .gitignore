@@ -12,4 +12,4 @@ uncorrupted_output.conllu
 corrupted_output.conllu
 
 # (Opcional) Si no quieres subir los datasets porque pesan mucho, descomenta la siguiente línea:
-*.conllu
+#*.conllu
