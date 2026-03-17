@@ -1,0 +1,15 @@
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales (por si usas alguno)
+venv/
+env/
+
+# Archivos de salida generados al ejecutar
+parsed_output.conllu
+uncorrupted_output.conllu
+corrupted_output.conllu
+
+# (Opcional) Si no quieres subir los datasets porque pesan mucho, descomenta la siguiente línea:
+*.conllu
